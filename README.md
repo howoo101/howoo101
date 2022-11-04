@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **howoo101/howoo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![howoo101's GitHub stats](https://github-readme-stats.vercel.app/api?username=howoo101&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dontgiveup)](https://solved.ac/dontgiveup)
+   
